@@ -1,0 +1,8 @@
+[
+    {
+        "cnameFrom": "prod.Demo13",
+        "cnameTo": "prod.Demo13.edgesuite.net",
+        "cnameType": "EDGE_HOSTNAME",
+        "edgeHostnameId": null
+    }
+]

@@ -1,0 +1,22 @@
+{
+    "definitions": {
+# Environment Specific Attributes
+	 "cpCode": {
+            "type": "cpCode",
+            "default": null
+        },
+        "originHostname": {
+            "type": "hostname",
+            "default": null
+        },
+# Sitewide Attributes
+        "sureRouteTestObject": {
+            "type": "url",
+            "default": "/akamai/sure-route-test-object.html",
+        },
+		"http2": {
+            "type": "http2",
+            "default": true
+        }
+    }
+}
